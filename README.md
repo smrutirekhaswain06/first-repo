@@ -6,7 +6,7 @@
 ## 🚀 Let's Begin!
 
 Hi there!  
-This is my very first GitHub repo. I'm using it to understand how GitHub works, try out small projects, and slowly improve my skills.
+I'm excited to share that this is my very first GitHub repo. I'm using it to understand how GitHub works, try out small projects, and slowly improve my skills.
 
 
 ## 🧠 Why I Made This
